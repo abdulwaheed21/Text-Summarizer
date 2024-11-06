@@ -1,9 +1,4 @@
-transformers
-transformers[sentencepiece]
-datasets
-sacrebleu
-rouge_score
-py7zr
+git
 pandas
 nltk
 tqdm
